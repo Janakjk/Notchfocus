@@ -1,7 +1,6 @@
 # NotchFocus 🎯
 
-> A minimal, distraction-free macOS menu bar & notch companion featuring a **Pomodoro timer** and **quick sticky notes**, seamlessly blended into the MacBook camera notch.
-
+> A minimal, distraction-free macOS menu bar (BUILT FOR MY OWN PRODUCTIVITY WHILE DOING A WORK. HOPE YOU LIKE IT!)
 ---
 
 ## 📖 Overview
